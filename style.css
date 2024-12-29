@@ -1,0 +1,86 @@
+* {
+  color: ;
+}
+
+.Furniro {
+  align-items: end;
+  color: 3A3A3A;
+  text-align: center;
+  font-size: 20px;
+}
+
+.ban {
+  position: relative;
+  top: px;
+  left: ;
+  width: px;
+  height: px;
+}
+.com {
+  position: relative;
+  top: ;
+  left: px;
+  width: 400px;
+  height: 312px;
+}
+.lamp {
+  position: relative;
+  top: 150px;
+  left: px;
+  bottom: px;
+  width: 295px;
+  height: 392px;
+}
+.bed {
+  position: relative;
+  top: 80px;
+  left: px;
+  bottom: px;
+  width: 250px;
+  height: 370px;
+}
+.coffie {
+  position: relative;
+  top: 80px;
+  left: px;
+  bottom: px;
+  width: 250px;
+  height: 460px;
+}
+
+.chir {
+  position: relative;
+  top: px;
+  left: -185px;
+  width: 200px;
+  height: 323px;
+}
+
+.camra {
+  position: relative;
+  top: px;
+  left: -185px;
+  bottom: 85px;
+  width: 280px;
+  height: 242px;
+}
+
+.chart {
+  position: relative;
+  top: 5px;
+  left: 120px;
+  right: ;
+  bottom: 5px;
+  width: 178px;
+  height: 242px;
+}
+
+.kitchen {
+  position: relative;
+  top: px;
+  left: 125px;
+  right: px;
+  bottom: 40px;
+  width: 258px;
+  height: 196px;
+}
